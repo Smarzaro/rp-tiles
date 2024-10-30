@@ -6,6 +6,28 @@ Este repositório contém *tiles* gerados a partir de um ortomosaico da cidade d
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/YouthMappersUFV_transparente.png/240px-YouthMappersUFV_transparente.png" alt="Youthmappers Logo" width="200">
 </p>
+
+## Configuração das *Tiles* no iD como Imagem de Fundo
+
+Para utilizar os tiles como camada de fundo no editor iD, siga estas etapas:
+
+1. **Abrir o editor iD** e acessar o menu de **Configurações de Fundo** clicando no ícone de mapa à direita ou pressionando **B** no teclado.
+
+2. **Adicionar uma URL personalizada** para os tiles:
+   - No painel de fundo, role até a seção "Imagens Personalizadas" e clique em **Custom** (ou "Personalizado").
+
+3. **Inserir a URL dos tiles**: 
+   - Na caixa que aparece, insira a URL no formato:
+     
+     ```
+     https://smarzaro.github.io/rp-tiles/{zoom}/{x}/{-y}.png
+     ```
+
+4. **Nome da Camada**: Opcionalmente, insira um nome para a camada, como "Ortomosaico Rio Paranaíba".
+
+5. **Aplicar as Configurações**: Clique fora da caixa de URL para aplicar a nova camada como imagem de fundo.
+
+Agora, a camada dos *tiles* será exibida como plano de fundo no editor iD. Você pode alternar entre diferentes camadas de fundo usando o atalho **CTRL + B**.
          
 ## Configuração das *Tiles* no JOSM como Imagem de Fundo
 
