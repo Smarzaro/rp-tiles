@@ -39,11 +39,13 @@ Para utilizar os *tiles* como camada de fundo no JOSM, siga as etapas abaixo:
     
 3.  **Configurar a URL da camada**: Insira a URL dos tiles no seguinte formato:
      
-    `tms[15,20]:https://smarzaro.github.io/rp-tiles/{zoom}/{x}/{-y}.png` 
+    ```
+    tms[15,20]:https://smarzaro.github.io/rp-tiles/{zoom}/{x}/{-y}.png
+    ``` 
     
-4.  **Nome da Camada**: Dê um nome à camada, como "Ortomosaico Rio Paranaíba".
+5.  **Nome da Camada**: Dê um nome à camada, como "Ortomosaico Rio Paranaíba".
     
-5.  Clique em **OK**. A camada estará disponível como imagem de fundo.
+6.  Clique em **OK**. A camada estará disponível como imagem de fundo.
 
 ## Licença e Permissão para Uso
 
