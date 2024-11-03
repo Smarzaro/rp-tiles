@@ -1,7 +1,7 @@
 # *Tiles* para Rio Paranaíba-MG-Brasil  
 
 
-Este repositório contém *tiles* gerados a partir de um ortomosaico da cidade de Rio Paranaíba. Os tiles foram criados para serem utilizados como camada de imagem de fundo em softwares de mapeamento como o [JOSM](https://josm.openstreetmap.de/). O ortomosaico utilizado tem resolução de 25cm/pixel e foi produzido pelo capítulo [Youthmappers UFV](https://www.instagram.com/youthmappers.ufv/), tendo como responsável o prof. Rodrigo Smarzaro. O Youthmappers UFV é um projeto de extensão da [Universidade Federal de Viçosa](https://www.ufv.br/campus-rio-paranaiba/) e faz parte da rede [Youthmappers](https://www.youthmappers.org/).
+Este repositório contém *tiles* gerados a partir de um ortomosaico da cidade de Rio Paranaíba. Os tiles foram criados para serem utilizados como camada de imagem de fundo em softwares de mapeamento como o [JOSM](https://josm.openstreetmap.de/). O ortomosaico utilizado tem resolução de 3.2cm/pixel e foi produzido pelo capítulo [Youthmappers UFV](https://www.instagram.com/youthmappers.ufv/), tendo como responsável o prof. Rodrigo Smarzaro. O Youthmappers UFV é um projeto de extensão da [Universidade Federal de Viçosa](https://www.ufv.br/campus-rio-paranaiba/) e faz parte da rede [Youthmappers](https://www.youthmappers.org/).
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/YouthMappersUFV_transparente.png/240px-YouthMappersUFV_transparente.png" alt="Youthmappers Logo" width="200">
